@@ -18,6 +18,6 @@ Thanks you for being involved 👌!
 
 ## Copyright & License
 
-Copyright (c) 2022 Martin TOUZOT.
+Copyright (c) 2022-2024 Martin TOUZOT.
 
 **Simon** is released under the [Apache v2.0 License](https://github.com/Project-Simon/.github/blob/main/LICENSE.md)
