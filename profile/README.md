@@ -20,4 +20,4 @@ Thanks you for being involved 👌!
 
 Copyright (c) 2022-2024 Martin TOUZOT.
 
-**Simon** is released under the [Apache v2.0 License](https://github.com/Project-Simon/.github/blob/main/LICENSE.md)
+**Project Simon** is released under the [GPL-3.0 license](https://github.com/Project-Simon/.github/blob/main/LICENSE)
